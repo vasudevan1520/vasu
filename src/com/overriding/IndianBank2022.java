@@ -18,7 +18,7 @@ public class IndianBank2022 extends IndianBank2021{
 	public static void main(String[] args) {
 		IndianBank2022 ind = new IndianBank2022();
 		ind.interset();
-		
+		System.out.println("Hello");
 
 	}
 
