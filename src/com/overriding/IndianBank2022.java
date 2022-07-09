@@ -1,17 +1,17 @@
 package com.overriding;
 
-public class IndianBank2022 extends IndianBank2021{
-	
+public class IndianBank2022 extends IndianBank2021 {
+
 	@Override
 	public void interset() {
-		
+
 		super.interset();
 		System.out.println("interset 45");
 		this.deposite();
 	}
+
 	public void deposite() {
 		System.out.println("deposite 50000");
-		
 
 	}
 
@@ -20,7 +20,7 @@ public class IndianBank2022 extends IndianBank2021{
 		ind.interset();
 		System.out.println("Hi");
 		System.out.println("Hello");
-
+		System.out.println("vasu");
 	}
 
 }
