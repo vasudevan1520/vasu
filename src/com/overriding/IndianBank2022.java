@@ -21,6 +21,7 @@ public class IndianBank2022 extends IndianBank2021 {
 		System.out.println("Hi");
 		System.out.println("Hello");
 		System.out.println("vasu");
+		System.out.println("deva");
 	}
 
 }
