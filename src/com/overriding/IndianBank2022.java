@@ -19,7 +19,7 @@ public class IndianBank2022 extends IndianBank2021{
 		IndianBank2022 ind = new IndianBank2022();
 		ind.interset();
 		System.out.println("Hi");
-		
+		System.out.println("Hello");
 
 	}
 
